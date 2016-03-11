@@ -1,2 +1,2 @@
 # insta
-React-native instagram clone.
+Instagram clone written in javascript (react-native) and swift.
